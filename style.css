@@ -178,6 +178,8 @@ input[type="submit"] {
     margin-left: 4px;
     font-style: italic;
     text-align: center;
+    line-height: 1.6;
+
 }
 
 #vegetables{
@@ -188,6 +190,7 @@ input[type="submit"] {
     margin-right: 4px;
     font-style: italic;
     text-align: center;
+    line-height: 1.6;
 }
 
 #other-items{
@@ -199,4 +202,9 @@ input[type="submit"] {
     float: left;
     font-style: italic;
     text-align: center;
+    line-height: 1.6;
+}
+
+.input-number{
+    width: 125px;
 }
